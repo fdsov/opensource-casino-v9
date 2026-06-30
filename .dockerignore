@@ -1,0 +1,17 @@
+.git
+.gitignore
+.railwayignore
+README.md
+Changelog-Version.txt
+Setup your server with Apache.pdf
+opensource-casino-v9-main.zip
+v10.sql
+casino/tests
+casino/node_modules
+casino/PTWebSocket/node_modules
+casino/vendor
+casino/storage/debugbar
+casino/storage/logs/*
+casino/storage/framework/cache/*
+casino/storage/framework/sessions/*
+casino/storage/framework/views/*
